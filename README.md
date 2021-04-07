@@ -32,8 +32,10 @@ This just to let the Python interpreter print the receipt, and for that we need 
 
     1º. Use the Boolean to return "True", because the meal is completed.
     2º. Write the Integer number on the "sub_total".
-    3º. The "tip" is going to be a multiple of the "sub_total": 20%. We use in this case a number data types and booleans 0.2         with the decimal.
+    3º. The "tip" is going to be a multiple of the "sub_total": 20%. We use in this case<br> 
+    a number data types and booleans 0.2 with the decimal.
     4º. Add the "tip" to the "sub_total".
     5º. Built a cordial greeting and total to pay. Pay attention to the two differents data types.
         We must convert all of the data types of the different variables that we use into the same text data types.
-    6º. We use the varible srt(), to change the data type from a numbers to a text. And inside of the parenthesis we write the         variable name where the value is a number wiht the goal that change that number value into a text.
+    6º. We use the varible srt(), to change the data type from a numbers to a text. And inside of the parenthesis we write the<br>
+    variable name where the value is a number wiht the goal that change that number value into a text.
