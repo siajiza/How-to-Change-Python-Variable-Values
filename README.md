@@ -1,8 +1,10 @@
 # How to Change Python Variable Values
 
-1º Calculate the tip of the total meal
-2º Add the tip to the total meal
-3º Make a receipt where must be write at the end an especial sentence
+<h2>Set up a calculator for the tickets plus tips.</h2>
+
+1º Calculate the tip of the total meal<br>
+2º Add the tip to the total ticket of the meal <br>
+3º Make a receipt where must appear at the end an especially gratefully sentence and go on of the total amount price<br>
 
 
     meal_completed = True
